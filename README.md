@@ -62,7 +62,7 @@ An aspiring Full Stack Developer from India. <br> <br>
 
  </div>
 
-[![](https://visitcount.itsvg.in/api?id=Suraj121704c&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tejaspedge&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
