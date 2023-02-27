@@ -1,3 +1,5 @@
+<img width = '1100px' src = "Blue Geometric Technology LinkedIn Banner.gif">
+
 <p align="center">
   
   
