@@ -36,7 +36,7 @@ An aspiring Full Stack Developer from India. <br> <br>
 
 # 📊 GitHub Stats: 📈
 
-![](https://github-readme-stats.vercel.app/api?username=Suraj121704c&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+[![](https://visitcount.itsvg.in/api?id=SurajSingh&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Suraj121704c&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj121704c&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
