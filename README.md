@@ -15,7 +15,7 @@ An aspiring Full Stack Developer from India. <br> <br>
 
 ## 🌐 Socials:
 
-[![Instagram](https://www.instagram.com/_shivadorar_aryan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-singh-22844a257)
+[![Instagram](https://instagram.com/_shivadorar_aryan?igshid=ZDdkNTZiNTM= ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-singh-22844a257)
 
 # 🧑‍💻👩‍💻 Tech Stack:
 
