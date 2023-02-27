@@ -14,8 +14,7 @@ An aspiring Full Stack Developer from India. <br> <br>
 - ➡️ ⚡ Fun fact **“Java is to JavaScript what car is to Carpet.”**<br>
 
 ## 🌐 Socials:
-
-[![Instagram](https://instagram.com/_shivadorar_aryan?igshid=ZDdkNTZiNTM= ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-singh-22844a257)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-singh-22844a257)
 
 # 🧑‍💻👩‍💻 Tech Stack:
 
