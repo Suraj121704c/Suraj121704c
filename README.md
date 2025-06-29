@@ -83,7 +83,7 @@ Possesses a strong learning mindset and a passion for building intuitive, high-p
 # 📊 GitHub Stats: 📈
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj121704c&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Suraj121704c&theme=blue-green&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj121704c&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
@@ -92,9 +92,7 @@ Possesses a strong learning mindset and a passion for building intuitive, high-p
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
   <img src="https://github-profile-trophy.vercel.app/?username=Suraj121704c&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
@@ -107,7 +105,9 @@ Possesses a strong learning mindset and a passion for building intuitive, high-p
 # 📈 Profile Views
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SurajSingh&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-🔎-blue" alt="Profile Views" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Suraj121704c&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
